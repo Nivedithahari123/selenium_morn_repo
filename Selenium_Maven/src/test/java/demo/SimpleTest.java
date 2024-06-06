@@ -10,6 +10,8 @@ public class SimpleTest {
 	{
 		Reporter.log("build is executed", true);
 				Reporter.log("simple test modified", true);
+				Reporter.log("simple test added", true);
+
 
 	}
 
